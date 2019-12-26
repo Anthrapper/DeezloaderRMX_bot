@@ -928,7 +928,7 @@ def Link(link, chat_id, quality, msg):
 
 	if done == 1:
 		sendMessage(
-			chat_id, "FINISHED :) Rate me here https://t.me/BotsArchive/298",
+			chat_id, "Complated;; Share Bot Your Friends https://t.me/share/url?url=https://t.me/DeezerDLboT",
 			reply_to_message_id = msg['message_id'],
 			reply_markup = InlineKeyboardMarkup(
 				inline_keyboard = [
